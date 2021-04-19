@@ -1,7 +1,7 @@
 import numpy as np
 from scipy.interpolate import interp1d
 
-import rvo2
+# import rvo2
 
 import trajnetplusplustools
 
